@@ -1,0 +1,3 @@
+# Trimble SketchUp
+
+Utility scaffolding.
